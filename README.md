@@ -8,7 +8,9 @@ The application provides a brief introduction of the developer along with their 
 
 ## Getting Started To run the application on your Android device or emulator, follow the below steps:
 
-Clone or download the repository to your local machine. Open the project in Android Studio. Build and run the application on your device or emulator.
+* Clone or download the repository to your local machine. 
+* Open the project in Android Studio. 
+* Build and run the application on your device or emulator.
 
 ## Requirements
 
