@@ -18,13 +18,12 @@ To run the application on your Android device or emulator, follow the below step
 Clone or download the repository to your local machine.
 Open the project in Android Studio.
 Build and run the application on your device or emulator.
+
 Requirements
+
 Android Studio 4.2 or later
 Android SDK
 Android device or emulator running Android 5.0 or later
-
-Screenshots
-Below are some screenshots of the application:
 
 
 License
