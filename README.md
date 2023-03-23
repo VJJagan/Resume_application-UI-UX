@@ -1,6 +1,6 @@
 # Android Resume Application
 
-This Android application displays the resume of the developer in a user-friendly and visually appealing manner. The application is developed using Java and XML in Android Studio.
+This is a simple Android application displays the resume of the developer in a user-friendly and visually appealing manner. The application is developed using Kotlin and XML in Android Studio.
 
 ## Features
 
